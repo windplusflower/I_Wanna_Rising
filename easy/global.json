@@ -1,0 +1,9 @@
+{
+  "$type": "DecorationMaster.ItemSettings, DecorationMaster",
+  "scene_name": null,
+  "mod_version": 0.5,
+  "items": {
+    "$type": "System.Collections.Generic.List`1[[DecorationMaster.Item, DecorationMaster]], mscorlib",
+    "$values": []
+  }
+}
